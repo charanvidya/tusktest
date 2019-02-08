@@ -3,5 +3,6 @@ Welcome to kitchen
 2. Chepala pulusu
 3. Annam
 
+Done with 1.0 version
 
 Thanks
